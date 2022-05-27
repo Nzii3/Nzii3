@@ -1,5 +1,5 @@
 ## 👋 Hey, I'm Nziie
-- I am a [Pycord](https://github.com/Pycord-Development/pycord) Developer (discord.py v2 fork)
+- I am a [Pycord](https://github.com/Pycord-Development/pycord) Developer
 - Discord server manager (up to 50k+ total)
 - Support @ [FriskyTool](https://frisky.dev)
 - **Currently learning HTML-CSS-JS**
