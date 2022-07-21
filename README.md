@@ -3,7 +3,7 @@
 - Discord server manager (up to 50k+ total)
 - Support @ [FriskyTool](https://frisky.dev)
 - **Currently learning HTML-CSS-JS**
-- Check out my Discord bot at <kbd>https://ticket-system.fupl.ml
+- Check out my Discord bot at <kbd>https://servermanagerbot.ml<kbd>
 
 ---
 
