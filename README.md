@@ -16,4 +16,6 @@
 ## My GitHub stats
 <img align="left" alt="Nziie's Stats" src="https://github-readme-stats.vercel.app/api?username=nzii3&show_icons=true&theme=dark">
 
+![Nziie's repo stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nzii3&theme=solarized_dark)
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzii3&layout=compact&theme=dark"/>
