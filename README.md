@@ -19,3 +19,8 @@
 ![Nziie's repo stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nzii3&theme=solarized_dark)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzii3&layout=compact&theme=dark"/>
+
+
+<hr/>
+
+![](https://komarev.com/ghpvc/?username=Nzii3&color=blue)
