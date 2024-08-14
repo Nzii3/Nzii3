@@ -2,8 +2,7 @@
 - I am a [Pycord](https://github.com/Pycord-Development/pycord) Developer
 - Discord server manager (up to 50k+ total members)
 - Website: **https://nziie.xyz**
-- Support @ [FriskyTool](https://frisky.dev)
-- Verified Bot Dev: https://sentry.nziie.xyz
+- Verified Bot Dev: https://sentrydiscord.xyz
 
 ---
 
